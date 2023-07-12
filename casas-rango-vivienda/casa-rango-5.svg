@@ -6,7 +6,7 @@
         fill: none;
       }
 
-      .cls-3 {
+      .cls-3, .cls-4 {
         fill: #ff864b;
       }
 
@@ -15,7 +15,6 @@
       }
 
       .cls-4 {
-        fill: #6c9fff;
         opacity: .3;
       }
     </style>
